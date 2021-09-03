@@ -1,0 +1,70 @@
+h1 {
+    position: center;
+    align-items: center;
+}
+
+body {
+    height: 125vh;
+    background-size: cover;
+    font-family: Brush Script MT, Brush Script Std, cursive;
+    margin-top: 150px;
+    padding: 30px;
+}
+
+header {
+    background-color: pink;
+    color: rgb(97, 4, 97);
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 150px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    box-shadow: 0 0 10px 0 black;
+    float: none;
+}
+
+header * {
+    display: inline;
+}
+
+header li {
+    margin: 20px;
+    font-family: "Georgia", Times, serif;
+}
+
+header li a {
+    color: rgb(97, 4, 97);
+    text-decoration: none;
+}
+
+header li a:hover {
+    color: rgb(238, 138, 8);
+  }
+
+main {
+    color: black;
+    font-family: "Georgia", Times, serif;
+}
+
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+ }
+
+ .heart {
+     color:#e25555;
+}
+/*  
+.linkedin {
+    height: 150px;
+    width: 150px;
+} */
