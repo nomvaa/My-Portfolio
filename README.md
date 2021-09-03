@@ -5,5 +5,5 @@ This is page is created using bootstrap. It is created to be responsive in layou
 
 
 ## Link to Application
-  https://nomvaa.github.io/Portfolio/
+
 
